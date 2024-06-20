@@ -1,7 +1,3 @@
-Bot Created Via [StarNFD](https://github.com/ADenseFog/Starnfd)
-
-使用方法：
-
-- 当其他用户给bot发消息，会被转发到bot创建者
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
-- 用户回复 `/block` ,  `/unblock` ,  `/checkblock` 等命令会执行相关指令， **不会** 回复到原消息发送者
+请在此处直接发送您想说的话给管理员！
+一切主动私聊你的均可视为骗子！主动均为骗子！
+小鲸鱼严选全网唯一总群@Jingyuyanxuan,一切联系请通过总群机器人联系管理！
