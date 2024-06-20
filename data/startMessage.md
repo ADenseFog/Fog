@@ -1,4 +1,4 @@
-Bot Created Via [NFD](https://github.com/ADenseFog/JYYX_nfd)
+Bot Created Via [JYYX_NFD](https://github.com/ADenseFog/JYYX_nfd)
 
 使用方法：
 
